@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
 import Formaction from './components/Formaction';
 import draw from './components/drawview';
-
+//check
 class App extends Component {
 render() {
   return (
